@@ -120,3 +120,50 @@ margin: 0;
 .mantap{
     margin-top: 0;
 }
+
+.judul7{
+    text-align: center;
+    border: 1px solid chartreuse;
+}
+.baju7{
+    font-size: 15px;
+}
+.harga7{
+    display: flex;
+    font-weight: bold;
+}
+.diskon7{
+    font-weight: lighter;
+    color: aqua;
+    margin-top: -10px;
+    font-size: small;
+}
+.gambar7{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 33%;
+    height: 33%;
+}
+.elek7{
+    width: 50%;
+    height: 50%;
+    margin-left: 150px;
+}
+.elek8{
+    width: 50%;
+    height: 50%;
+    margin-left: 150px;
+}
+.elek9{
+    width: 50%;
+    height: 50%;
+    margin-left: 150px;
+}
+.deskripsi_baju1{
+padding: 0;
+margin: 0;    
+}
+.mantap{
+    margin-top: 0;
+}
